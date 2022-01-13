@@ -1,0 +1,2 @@
+# NTCIR-16-FinNum-3
+The multi-class text classification competition
